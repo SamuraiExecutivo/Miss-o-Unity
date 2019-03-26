@@ -18,10 +18,6 @@ The game is quite simple: you must push the red orbs (food) to the red container
 
 Download: [Google Drive (7zip file)](https://drive.google.com/file/d/1BzZNpTEEU4D3GSd3gplHIm36IP7w2GXg/view?usp=sharing)
 
-Say what the step will be
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Authors
 
 * **Yuri Katayama** - *Full Development* - [SamuraiExecutivo](https://github.com/SamuraiExecutivo)
