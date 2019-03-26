@@ -8,9 +8,9 @@ This project was made in Unity3D 2018.3.6f1. You can just download/clone and ope
 ## Hot to Play 
 The game is quite simple: you must push the red orbs (food) to the red container, and the blue orbs (water) to the blue container. If you get the wrong orb in the container, you lose Score. If you get negative score, you must revert it till the timer (10 seconds) goes 0, or else, is **Game Over**.
 #### Controls
-* WASD/Arrows - Control the Satellite movement;
-* Q/E - Control the Satellite Rotation;
-* Spacebar - Restart Game;
+* **WASD/Arrows** - Control the Satellite movement;
+* **Q/E** - Control the Satellite Rotation;
+* **Spacebar** - Restart Game;
 
 
 
