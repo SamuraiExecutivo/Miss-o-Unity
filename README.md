@@ -1,5 +1,5 @@
 # Satellite-Game
-This project is a (more or less) 14 hours development (one day-work) as a sample for my students in Happy Code School using Unity3D 2018. The 3D models were taken from Free 3d models (priceless). Feel free to look at the source.
+This project is a sample for my students in Happy Code School using Unity3D 2018. It tooke me around 10~12 hours to get done. The 3D models were taken from Free 3d models. Feel free to look at the source-code, project, or wahtever you are interested. 
 
 ## Getting Started
 
