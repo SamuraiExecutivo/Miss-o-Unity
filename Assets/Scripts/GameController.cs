@@ -7,8 +7,8 @@ public class GameController : MonoBehaviour {
 
     public GameObject   foodContainer;
     public GameObject   waterContainer;
-    public float        waterCount;
-    public float        foodCount;
+    // public float        waterCount;
+    // public float        foodCount;
     public float        timerScore;
     private int         score;
     public bool         gameOver;

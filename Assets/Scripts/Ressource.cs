@@ -23,14 +23,14 @@ public class Ressource : MonoBehaviour {
         
     }
 
-    void OnCollisionEnter(Collision ress) {
-        if (isFood && ress.gameObject.tag == "fcontainer") {
+    void OnCollisionEnter(Collision container) {
+        if (isFood && container.gameObject.tag == "fcontainer") {
             aux.GetComponent<GameController>().AddScore(10);
             Destroy(this.gameObject);
-        } else if (!isFood && ress.gameObject.tag == "wcontainer") {
+        } else if (!isFood && container.gameObject.tag == "wcontainer") {
             aux.GetComponent<GameController>().AddScore(10);
             Destroy(this.gameObject);            
-        }  else if (ress.gameObject.tag == "wcontainer" || ress.gameObject.tag == "fcontainer") {
+        }  else if (container.gameObject.tag == "wcontainer" || container.gameObject.tag == "fcontainer") {
             aux.GetComponent<GameController>().AddScore(-15);
             Destroy(this.gameObject);
         }
