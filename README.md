@@ -16,7 +16,7 @@ The game is quite simple: you must push the red orbs (food) to the red container
 
 ### Download
 If you just want to download the build (.exe file), here's the link.
-* Download: [Google Drive (7zip file)](https://drive.google.com/file/d/1BzZNpTEEU4D3GSd3gplHIm36IP7w2GXg/view?usp=sharing)
+* Download: // need new link
 
 ## Authors
 
